@@ -1,6 +1,10 @@
 {
   "name": "ecotrace-contracts",
   "description": "EcoTrace smart contracts using FHEVM technology",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YehudiH6658owells/eco-trace"
+  },
   "version": "0.1.0",
   "engines": {
     "node": ">=20",
